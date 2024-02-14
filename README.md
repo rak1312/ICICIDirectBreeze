@@ -27,7 +27,8 @@ You may have to use an earlier version if you are receiving error with HTTPS SSL
  -  Register your app
 	 - Click on register an app
 	 - For field 'App Name' enter MyApp (or any name you want)
-	 - For field 'Redirect URL' enter http://127.0.0.1Hit Submit
+	 - For field 'Redirect URL' enter http://127.0.0.1
+	 - Hit Submit
 	 - copy the Values of 'API Key' and 'Secret Key' in notepad
 **DO NOT SHARE these values with anyone**
 
