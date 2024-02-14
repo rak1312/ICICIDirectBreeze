@@ -16,7 +16,7 @@ PLEASE USE AT YOUR OWN RISK.
 - Credit to ICICIDirect Breeze team for building the breeze API. It is quite a 'breeze' to use them
 - To my friend Gaurav Gupta for provoking me to write this
   
-## setting up environment
+## Setting up environment
 
 Instructions to setup python environment are available here :
 [Python Environment setup](https://pypi.org/project/breeze-connect/#virtualenv)
