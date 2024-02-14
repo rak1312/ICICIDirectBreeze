@@ -5,9 +5,10 @@
 **DISCLAIMER:**
 
 PLEASE USE AT YOUR OWN RISK.
-This is my first attempt at python programming and I have literally coded these scripts only in a couple of hours. They have NOT been tested thoroughly. I have used them about 20+ times to execute orders successfully.
+This is my first attempt at python programming and I have literally coded these scripts only in a couple of hours. They have NOT been tested thoroughly. 
+However, I have used successfully used them about 20+ times to place and cancel orders with several combinations.
 You need to have a technical programming background to run this.
-Also, if you are trying to take advantage of ICICIDirect's current scheme of zero brokerage for API orders then Remember to sign for 'Zero Brokerage API plan'. Otherwise they charge brokerage even if you execute with APIs.
+Also, if you are trying to take advantage of ICICIDirect's current scheme of zero brokerage for API orders then Remember to sign-up for 'Zero Brokerage API plan' before you use the scripts. Otherwise they charge brokerage even if you execute with APIs.
 
   
 ## setting up environment
