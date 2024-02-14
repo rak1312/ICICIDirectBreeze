@@ -5,7 +5,9 @@
 **DISCLAIMER:**
 
 PLEASE USE AT YOUR OWN RISK.
-You need to have a technical programming background to run this
+This is my first attempt at python programming and I have literally coded these scripts only in a couple of hours. They have NOT been tested thoroughly. I have used them about 20+ times to execute orders successfully.
+You need to have a technical programming background to run this.
+Also, if you are trying to take advantage of ICICIDirect's current scheme of zero brokerage for API orders then Remember to sign for 'Zero Brokerage API plan'. Otherwise they charge brokerage even if you execute with APIs.
 
   
 ## setting up environment
