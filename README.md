@@ -10,6 +10,9 @@ PLEASE USE AT YOUR OWN RISK.
 - You need to have a technical programming background to run this.
 - Also, if you are trying to take advantage of ICICIDirect's current scheme of zero brokerage for API orders then Remember to sign-up for 'Zero Brokerage API plan' before you use the scripts. Otherwise they charge brokerage even if you execute with APIs.
 
+CREDITS :
+- Credit to ICICIDirect Breeze team for building the breeze API. It is quite a 'breeze' to use them
+- To my friend Gaurav Gupta for provoking me to write this
   
 ## setting up environment
 
