@@ -43,7 +43,7 @@ You may have to use an earlier version if you are receiving error with HTTPS SSL
 
  1. Open terminal window
  2. Activate virtual environment with the command
-    source breeze_venv/bin/activate 
+    'source breeze_venv/bin/activate'
   3. Navigate to 'breezepy' directory (use cd command to navigate to your directory)
 
 ## Establishing a connection to breeze
