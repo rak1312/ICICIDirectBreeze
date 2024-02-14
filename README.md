@@ -5,6 +5,7 @@
 **DISCLAIMER:**
 
 PLEASE USE AT YOUR OWN RISK.
+- The script can place bulk orders (of course you would have entered the quantity). So if you don't know what you are doing DO NOT ATTEMPT to run the script to place order. I suggest you read the documentation carefully and try it out with only small quantities at first until you gain proficiency to use the script.
 - This is my first attempt at python programming and I have literally coded these scripts only in a couple of hours. I am  certain that this can be written in a better fashion and optimised quite a bit.
 - The scripts have NOT been tested thoroughly. However, I have successfully used them about 20+ times to place and cancel orders with several combinations.
 - You need to have a technical programming background to run this.
