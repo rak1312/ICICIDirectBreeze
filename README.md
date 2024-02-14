@@ -226,9 +226,10 @@ Placing order:
 			## STEP 2: Executing the cancel order
 
  1.  On command prompt navigate to 'breezepy' directory.
+**activate the breeze_venv by executing command 'source breeze_venv/bin/activate' (This has to be done only once)**
  2. Run command 'python cancel_open_orders.py'
 
-**activate the breeze_venv by executing command 'source breeze_venv/bin/activate' (This has to be done only once)**
+
 
 
 
